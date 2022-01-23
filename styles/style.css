@@ -25,3 +25,36 @@ body{
     font-weight: 500;
     font-size: 16px;
 }
+
+/*--------------------
+    Main Section
+---------------------*/
+/* Frequently Asked Questions */
+.question-fonts{
+    color:#222221;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+}
+.btn-colors{
+    color:#383838;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+/*--------------------
+    Footer Section
+---------------------*/
+.footer{
+    background-color: #0B0D17;
+    /* height: 280px; */
+}
+.footer-fonts{
+    color: #D9DBE1;
+    font-size: 14px;
+}
+.app-fonts{
+    color: #D9DBE1;
+    font-weight: 500;
+    font-size: 18px;
+}
