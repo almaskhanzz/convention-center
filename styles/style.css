@@ -25,6 +25,13 @@ body{
     font-weight: 500;
     font-size: 16px;
 }
+/* Image Slider */
+.event-width{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
 
 /*--------------------
     Main Section
