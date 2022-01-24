@@ -29,6 +29,9 @@ body{
     font-size: 16px;
 }
 /* Image Slider */
+/* .position-img{
+    position: relative;
+} */
 .event-width{
     color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
@@ -116,4 +119,13 @@ li .lists{
 .btn-radius{
     border:0.5px solid white;
     border-radius: 10px;
+}
+/*--------------------
+    Media Query
+--------------------*/
+@media only screen and (max-width:576px) {
+    /* .carrousel-item img{
+        width: 50%;
+        height: 500px;
+    } */
 }
