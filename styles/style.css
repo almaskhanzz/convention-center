@@ -78,6 +78,12 @@ li .lists{
     font-weight: bold;
     font-size: 15px;
 }
+.text-fonts{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #222221;
+}
 /* Frequently Asked Questions */
 .question-fonts{
     color:#222221;
